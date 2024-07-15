@@ -1,0 +1,4 @@
+.env
+
+# python virtual environment
+youtube_crawler_env/
